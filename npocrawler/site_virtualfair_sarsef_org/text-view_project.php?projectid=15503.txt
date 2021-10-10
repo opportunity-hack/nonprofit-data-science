@@ -1,0 +1,70 @@
+SARSEF Virtual Fair: View Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit Hall
+Main Stage
+Sponsors
+Family Fun
+
+
+Volunteer
+Judge
+Donate
+
+
+
+powered by
+
+
+Back to Exhibit Hall
+
+8-ER001
+Auto Feeder
+Engineering, Robotics, and Computer Science
+
+Scarlet Schmugge
+Grade:
+8
+
+Teacher:
+Deann Ennen
+
+"My project is an electronic small animal feeder. I own two pet rats and wanted an easier way to feed them reliably even when I was away from home. I built a Raspberry Pi controlled machine that feeds them, and it was very successful and reliable. This project will make feeding small pets easier.
+Keywords: Small animal feeder, Engineering, Rats, Auto Feeder"
+View Project Video
+This project has been cleared by SRC.
+
+
+Comments
+
+
+Leave a comment. Comments will not be viewable until Friday, March 5th.
+200 character limit
+
+Send
+
+
+
+
+        Copyright © 2005 - 2021 by  SARSEF
+ • Site by Jenson Consulting

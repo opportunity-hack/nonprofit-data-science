@@ -1,0 +1,395 @@
+Perform calculations – SARSEF
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+menu
+
+
+
+SARSEF
+Every child. Thinking critically. Solving problems.
+
+Donate
+
+
+
+
+ 
+				SARSEF.org
+			
+
+
+ 
+				SARSEF Fair
+			
+
+
+ 
+				Racing the Sun
+			
+
+ 
+
+
+
+SARSEF
+Every child. Thinking critically. Solving problems.
+
+
+
+
+
+ 
+								Participate
+								arrow_drop_down
+
+arrow_drop_down
+
+
+
+Getting started
+
+
+
+								Levels of involvement
+							
+
+
+
+								Free educational outreach
+							
+
+
+
+								Types of projects
+							
+
+
+
+
+Before the SARSEF Regional Fair
+
+
+
+								Holding a school fair
+							
+
+
+
+								Selecting projects for the SARSEF Fair
+							
+
+
+
+								Registering projects for the SARSEF Fair
+							
+
+
+
+
+SARSEF Regional Fair Week
+
+
+
+								Opening Celebrations
+							
+
+
+
+								Project judging
+							
+
+
+
+								Awards ceremonies
+							
+
+
+
+
+Other competitions
+
+
+
+
+
+ 
+								Create a project
+								arrow_drop_down
+
+arrow_drop_down
+
+
+
+Imagination
+
+
+
+								Determine team size
+							
+
+
+
+								Start a lab notebook
+							
+
+
+
+								Choose a topic
+							
+
+
+
+
+Preparation
+
+
+
+								Ask questions and identify problems
+							
+
+
+
+								Develop and use models
+							
+
+
+
+								Plan investigations
+							
+
+
+
+
+Investigation
+
+
+
+								Document the procedure
+							
+
+
+
+								Carry out investigations
+							
+
+
+
+								Collect data
+							
+
+
+
+
+Interpretation
+
+
+
+								Review the data
+							
+
+
+
+								Perform calculations
+							
+
+
+
+								Construct explanations and design solutions
+							
+
+
+
+
+Presentation
+
+
+
+								Create a project presentation
+							
+
+
+
+								Write a final research report
+							
+
+
+
+								Competing at fairs
+							
+
+
+
+
+Judging criteria
+
+
+
+Getting help
+
+
+Step by step process
+
+
+
+ 
+								Rules
+								arrow_drop_down
+
+arrow_drop_down
+
+
+
+Approval before experiment
+
+
+
+Informed consent
+
+
+Display and safety rules
+
+
+ 
+						Important dates
+					
+
+
+
+ 
+						Volunteer
+					
+
+
+ 
+						Judge
+					
+
+
+
+ 
+								Donate
+							
+arrow_drop_down
+
+
+
+Ways to Give
+
+
+
+Contribute a Sponsored Award
+
+
+Corporate Sponsorship
+
+
+Current Donors and Sponsors
+
+
+ 
+
+
+InterpretationReview the data
+Perform calculations
+Construct explanations and design solutions
+
+
+
+Our site is currently under construction
+Need help?
+
+
+
+
+
+
+
+
+Perform calculations
+Students may need to perform calculations on their raw data in order to reveal results from which they will generate a conclusion. Computers and digital tools, such as Microsoft Excel and Google Sheets, can help by automating calculations, approximating solutions to problems that cannot be calculated precisely, and analyzing large data sets to identify meaningful patterns. Keep in mind when manipulating data that unit conversions may be necessary.
+After performing multiple trials of their experiment, they will want to think about the best way to analyze their data.
+Is it most effective to display their data as individual data points?Do they want to calculate the mean (average), median, or mode for each group of trials? It’s important to include a measure of the distribution of the data (variance, standard deviation, or standard error of the mean) as grade-level appropriate.In middle school to high school, it might be appropriate to include a measure of confidence, or statistical significance of the data. (Ex: T test, Chi-square, or ANOVA)Should they summarize the results in some other way, such as ratios or percentages?Are there any other calculations that are necessary for the student to perform in order to analyze and interpret data from their experiment?
+Graphs
+Graphs are an excellent way to display the student’s results. Some spreadsheet programs, like Microsoft Excel and Google Sheets, can be used to create a variety of graphs or data visualizations.
+For any type of graph
+Generally, students should place the independent variable on the horizontal x-axis of their graph and the dependent variable on the vertical y-axis.
+Be sure to label the axes of your graph with what the data represent. Don’t forget to include the units of measurement (grams, centimeters, liters, etc.).
+If the student has more than one set of data, they should show each series in a different color or symbol, and include a legend with clear labels.
+Different types of graphs are appropriate for different experiments. These are just a few of the possible types of graphs:
+Scatter plot
+A scatter plot might be the proper graph if trying to show how two variables may be related to one another. The data points exist as dots, but not connected with a line.
+Bar graph
+A bar or column graph might be appropriate for comparing different trials or different treatment groups. It also may be a good choice if your independent variable is not numerical.
+Line graph
+An xy-line graph shows the relationship between the student’s dependent and independent variables when both are numerical and the dependent variable is a function of the independent variable. Line graphs may be the most effective to show changes over time, with time as the x-axis.
+Pie chart
+This type of data visualization is effective to show percentages of a whole.
+Take it further
+Students should not rely on default graphs. There are many ways to visualize data and begin to recognize relationships and connections within observations. Students should play with different visualizations to find the best way to communicate a student’s results. CODAP is free educational software for data analysis.
+ Dive into data analysis
+
+Mathematics can be used in other ways throughout the entire research process by applying the mathematical concepts of logic, geometry, probability and descriptive statistics, and in higher levels, calculus. Students will demonstrate computational thinking, which involves strategies for organizing and searching data, creating sequences of steps (algorithms), and using and developing new models and simulations of systems. Mathematics and computational thinking is a vital practice in science and engineering.
+
+
+
+
+
+
+
+
+Contact us
+director@sarsef.org
+520-273-8259
+
+4574 E. Broadway BlvdTucson, AZ 85711
+
+
+ 
+ 
+ 
+ 
+
+About usAnnual Report
+Careers at SARSEF
+Our History
+Can’t find something?
+Search our website
+
+
+
+search
+
+
+ 
+© SARSEF 2021 
+Privacy policy

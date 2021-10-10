@@ -1,0 +1,71 @@
+SARSEF Virtual Fair: View Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit Hall
+Main Stage
+Sponsors
+Family Fun
+
+
+Volunteer
+Judge
+Donate
+
+
+
+powered by
+
+
+Back to Exhibit Hall
+1st Place Grand Award, SARSEF Foundation Scholarship
+
+HS-BI004
+Study of Small Molecules Targeting Superoxide Dismutase 1 in Familial Amyotrophic Lateral Sclerosis
+Biochemical Science and Bioengineering
+
+Nicole Dennis Talley
+Grade:
+HS
+
+Teacher:
+Tomasso Cioni
+
+Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disease that results in progressive loss of muscle and eventual death of the patient. The life expectancy varies from a few months to 2 years maximum and there is no cure. To date, there are only two drugs available to treat patients, but these drugs are not curative. Ten percent of ALS are familial, or inherited, and while 90% are sporadic, or random. Superoxide Dismutase 1 (SOD1) is a one of the proteins that is involved in the pathology of the disease. SOD1 is a metalloenzyme composed of copper and zinc; the normal functional processes of SOD1 involve turning harmful radicals into simple compounds. SOD1 protein when mutated leads to protein aggregation, and malfunction, leading to eventual cell death. The aim of this research is to identify a lead pharmacophore, or a molecular structure with features and substitutions for a set of molecules that reduce the effects of mutant SOD1. These molecules can lead to a potential treatment option for patients with familial ALS harboring this mutation. Through using the software Datawarrior and public domain websites such as PubChem and CHEMBL, the objective is the identification of common structural features from three classes of chemicals, Cyclohexane Diones (CHDs), Pyrimidine Triones (PYTs), and Arylsulphanyl Pyrazolones (ASPs) in order to create a molecule that could become a potential drug therapy treatment for ALS.
+This project has been cleared by SRC.
+
+
+Comments
+
+great project
+great job! your results are great! finding all the common features and structures should have taken so i applaud your perseverance.
+
+Leave a comment. Comments will not be viewable until Friday, March 5th.
+200 character limit
+
+Send
+
+
+
+
+        Copyright © 2005 - 2021 by  SARSEF
+ • Site by Jenson Consulting

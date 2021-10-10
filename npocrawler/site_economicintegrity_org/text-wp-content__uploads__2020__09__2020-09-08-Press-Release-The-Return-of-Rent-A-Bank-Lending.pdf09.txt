@@ -1,0 +1,116 @@
+%PDF-1.5
+%ÓôÌá
+1 0 obj
+<<
+/Type/Page
+/Resources
+<<
+/Font
+<<
+/F1 2 0 R
+/F2 3 0 R
+/F3 4 0 R
+/F4 5 0 R
+>>
+/ExtGState
+<<
+/GS7 6 0 R
+/GS8 7 0 R
+>>
+/XObject
+<<
+/Image9 8 0 R
+>>
+/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]
+>>
+/MediaBox[0 0 612 792]
+/Contents 9 0 R
+/Group
+<<
+/Type/Group
+/S/Transparency
+/CS/DeviceRGB
+>>
+/Tabs/S
+/Annots 10 0 R
+/Parent 57 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type/Font
+/Subtype/TrueType
+/Name/F1
+/BaseFont/ABCDEE+Calibri
+/Encoding/WinAnsiEncoding
+/FontDescriptor 25 0 R
+/FirstChar 32
+/LastChar 122
+/Widths 26 0 R
+>>
+endobj
+3 0 obj
+<<
+/Type/Font
+/Subtype/TrueType
+/Name/F2
+/BaseFont/ABCDEE+Calibri-Bold
+/Encoding/WinAnsiEncoding
+/FontDescriptor 22 0 R
+/FirstChar 32
+/LastChar 122
+/Widths 23 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type/Font
+/Subtype/TrueType
+/Name/F3
+/BaseFont/ABCDEE+Calibri-Italic
+/Encoding/WinAnsiEncoding
+/FontDescriptor 19 0 R
+/FirstChar 32
+/LastChar 122
+/Widths 20 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type/Font
+/Subtype/Type0
+/BaseFont/ABCDEE+Calibri
+/Encoding/Identity-H
+/DescendantFonts 12 0 R
+/ToUnicode 13 0 R
+>>
+endobj
+6 0 obj
+<<
+/Type/ExtGState
+/BM/Normal
+/ca 1
+>>
+endobj
+7 0 obj
+<<
+/Type/ExtGState
+/BM/Normal
+/CA 1
+>>
+endobj
+8 0 obj
+<<
+/Type/XObject
+/Subtype/Image
+/Width 468
+/Height 120
+/ColorSpace/DeviceRGB
+/BitsPerComponent 8
+/Interpolate false
+/SMask 11 0 R
+/Filter/FlateDecode
+/Length 19970
+>>
+stream
+xœì}÷wTG¶îé Vl…VêV–Z±ÕÝjå€

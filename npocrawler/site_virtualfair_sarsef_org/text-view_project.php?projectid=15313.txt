@@ -1,0 +1,73 @@
+SARSEF Virtual Fair: View Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit Hall
+Main Stage
+Sponsors
+Family Fun
+
+
+Volunteer
+Judge
+Donate
+
+
+
+powered by
+
+
+Back to Exhibit Hall
+1st Place Grand Award, SARSEF Foundation Scholarship, The UACC Award for Early Scientific Inquiry
+
+HS-HB006
+KRAS Mutational Status and Its Relationship to Gender, Stage and Other RAS Expressions in Non-Small Cell Lung Cancer
+Health and Biomedical Science
+
+Nikhil Chandra Mathur
+Grade:
+HS
+
+Teacher:
+Elyse Wexler
+
+My project aims to understand KRAS mutations in Non-Small Cell Lung Cancer (NSCLC) and their relationship to gender, stage, and expression levels of other types of RAS. RAS is the most commonly mutated oncogene in cancer, occurring in approximately 30% of all cancers. Different mutations in RAS genes can lead to permanently activated Ras proteins causing prolonged cell survival, uncontrolled proliferation, decreased apoptosis, and uncontrolled cell growth. These factors lead to the formation of a tumor and cancer.  We sought to explore this idea further and determine if gender plays a role in KRAS Mutational Status and if there is a statistical relationship between KRAS Mutational Status and HRAS and NRAS expression in NSCLC. Through conducting bioinformatics, we found that KRAS Expression is not correlated to gender nor stage. HRAS expression is not correlated to KRAS mutational status. Finally, NRAS expression is correlated to KRAS mutational status however, we are unsure of that exact relationship. Overall, the research we conducted is vital because it gave us more insight into the inner-workings of KRAS mutations in NSCLC and hopefully with further exploration we can develop treatment options for Non-Small Cell Lung Cancer.
+This project has been cleared by SRC.
+
+
+Comments
+
+This student did great work in analyzing
+This student did great work in advancing the field of lung cancer and potentially finding a cure. Analyzing gene expression can save lives worldwide. Truly invaluable work.
+Such an amazing presentation!
+Love your research!
+
+Leave a comment. Comments will not be viewable until Friday, March 5th.
+200 character limit
+
+Send
+
+
+
+
+        Copyright © 2005 - 2021 by  SARSEF
+ • Site by Jenson Consulting

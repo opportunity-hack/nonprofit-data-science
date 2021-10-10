@@ -1,0 +1,843 @@
+SARSEF Virtual Fair: Exhibit Hall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit Hall
+Main Stage
+Sponsors
+Family Fun
+
+
+Volunteer
+Judge
+Donate
+
+
+
+powered by
+
+
+
+
+Welcome to the virtual exhibit hall
+Welcome to the 2021 SARSEF Regional Science and Engineering Fair Exhibit Hall! Here you will find the top 15% of all student science and engineering projects in the Southern Arizona region. We are so proud of all the students who completed a project this year, especially in the midst of so many challenges. We are in awe of you and all that you accomplished.
+Look at all the critical thinking and problem solving that is happening in our community!
+Using the filters, you can browse by category or grade, or even use the keyword search to narrow down to a specific special project you are looking for! Keep noticing and wondering!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Filter projects
+
+Grade level
+
+All
+PK
+K
+1
+2
+3
+4
+5
+6
+7
+8
+HS
+
+
+
+Category
+
+All
+AP - Animal and Plant Science (PK - 8)
+AS - Animal Science (HS)
+BE - Behavioral and Social Science
+BI - Biochemical Science and Bioengineering (HS)
+CB - Cellular and Molecular Biology (HS)
+CH - Chemical Science (PK - 8)
+CM - Chemical and Material Science (HS)
+EA - Earth and Environmental Science
+EE - Energy and Environmental Engineering (PK - 8)
+EL - Electrical and Mechanical Engineering (HS)
+EN - Energy and Environmental Engineering (HS)
+ER - Engineering, Robotics and Computer Science (PK - 8)
+HB - Health and Biomedical Science (HS)
+HW - Health and Wellness (PK - 8)
+MI - Microbiology (HS)
+PM - Physics, Astronomy, and Mathematics
+PS - Plant Science (HS)
+RC - Robotics and Computer Science (HS)
+
+
+
+Keyword search
+
+
+
+
+
+
+
+
+Previous page
+
+1-48
+49-96
+97-144
+145-192
+193-240
+241-288
+289-336
+337-384
+385-432
+433-480
+481-528
+529-576
+577-624
+625-672
+673-720
+721-768
+769-816
+817-864
+865-912
+913-960
+961-1008
+1009-1056
+1057-1098
+
+
+
+
+
+
+
+
+
+
+HS-MI003
+Prophages Within Symbiotic and Free-Living Terrestrial Cyanobacteria
+Grade:HS
+
+
+
+MI-Microbiology
+
+
+
+
+
+
+
+
+HS-MI004
+The Volume of Microorganisms on Frequently Touched Surfaces in Public Places Before and After Foregoing Regular Cleaning
+Grade:HS
+
+
+
+MI-Microbiology
+
+
+
+
+
+
+
+
+HS-MI005
+Efficacies of Antimicrobial Agents on Microorganisms of Device Surfaces
+Grade:HS
+
+
+
+MI-Microbiology
+
+
+
+
+
+
+
+
+HS-MI006
+Charred, Cooked, Raw? The Optimum Size and  Density to Cook Ground Meat to Minimize Exposure to Carcinogens and Campylobacter
+Grade:HS
+
+
+
+MI-Microbiology
+
+
+
+
+
+
+
+
+HS-MI007
+The Effect of Acetone Concentration on E. coli Growth
+Grade:HS
+
+
+
+MI-Microbiology
+
+
+
+
+
+
+
+
+
+HS-MI008
+Creosote, the Desert’s Native Antibiotic
+Grade:HS
+
+
+
+MI-Microbiology
+
+
+
+
+
+
+
+
+
+HS-PM001
+Meteors Under the Microscope: Observing the Lightcurve of Asteroid 1998 OR2 using DS9
+Grade:HS
+
+
+
+PM-Physics, Astronomy, and Mathematics
+
+
+
+
+
+
+
+
+HS-PM003
+Nerf up!
+Grade:HS
+
+
+
+PM-Physics, Astronomy, and Mathematics
+
+
+
+
+
+
+
+
+
+HS-PM004
+What Is Bernoulli’s Principle?   The Relation Between Speed and Pressure on a Fluid
+Grade:HS
+
+
+
+PM-Physics, Astronomy, and Mathematics
+
+
+
+
+
+
+
+
+
+HS-PM005
+Effect of an Arrow Shaft and Projectile Point on a Flight’s Precision and Scalar Distance
+Grade:HS
+
+
+
+PM-Physics, Astronomy, and Mathematics
+
+
+
+
+
+
+
+
+
+HS-PM006
+Eddy Current Levitation
+Grade:HS
+
+
+
+PM-Physics, Astronomy, and Mathematics
+
+
+
+
+
+
+
+
+
+HS-PM007
+The Probability of Getting a Cornhole
+Grade:HS
+
+
+
+PM-Physics, Astronomy, and Mathematics
+
+
+
+
+
+
+
+
+
+HS-PM008
+Ancient Siege Weaponry
+Grade:HS
+
+
+
+PM-Physics, Astronomy, and Mathematics
+
+
+
+
+
+
+
+
+HS-PM009
+The Effects Mask Efficiency Has on the Parachute Capabilities of Face Masks
+Grade:HS
+
+
+
+PM-Physics, Astronomy, and Mathematics
+
+
+
+
+
+
+
+
+HS-PM010
+How Different Storage Temperatures Affect Battery Strength
+Grade:HS
+
+
+
+PM-Physics, Astronomy, and Mathematics
+
+
+
+
+
+
+
+
+
+HS-PM011
+Have You Ever Seen Sound?
+Grade:HS
+
+
+
+PM-Physics, Astronomy, and Mathematics
+
+
+
+
+
+
+
+
+
+HS-PM012
+How Different Surface Conditions Affect Distance to Stop
+Grade:HS
+
+
+
+PM-Physics, Astronomy, and Mathematics
+
+
+
+
+
+
+
+
+
+HS-PS001
+The Effects of Sodium Polyacrylate on Radishes in Different Soil Ratios
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+
+HS-PS002
+Comparative Analysis of Transcriptome Changes in Solanum pennellii Pistils Before and After Flowering Time
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+HS-PS003
+Do Plants "Feel the Vibration"? Investigating the Effect of Mechanical Sound Waves on Plant Growth in Baby Tomato Plants
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+HS-PS004
+Propagation, Restoration & Insulation
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+
+HS-PS005
+Frosty Plants! Using Gibberellic Acids on Promoting Germination of Cryopreserved  Lactuca sativa (Romaine Lettuce) Seeds
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+
+HS-PS006
+Defying Gravity: The Role of Nitric Oxide in Mediating Gravitropism in Natural and Synthetic Auxin
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+HS-PS008
+How Does the Use of Organic vs. Chemical Fertilizer Affect the Growth of Lima Beans?
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+
+HS-PS009
+Selaginella lepidophylla and Acetic Acid Applied to Maize Seeds to Improve Growth and Drought Tolerance
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+HS-PS010
+Mineral Availability From Soil to Citrus Fruits Compared to Limonene Content
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+HS-PS011
+The Effects of Light Color on Marigold Growth
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+
+HS-PS012
+mRNA Sequence Analysis to Determine Genes Causing Unilateral Incompatibility in S. lycopersicum and S. pennellii
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+HS-PS013
+Effects of Different Fertilizers on Pinto Beans
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+HS-PS014
+Germination of Beans Using Magnetized Water
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+HS-PS015
+The Effect of Different Solutions on the Growth of Pisum sativum
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+HS-PS016
+The Color of LIfe
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+HS-PS017
+Effect of Fertilizer Concentration on Pansy Growth
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+HS-PS018
+Tilapia and Potatoes
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+
+HS-PS019
+The Power of pH
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+HS-PS020
+The Effect of Dandelions, a Perennial Weed, on Bean Plants Growth
+Grade:HS
+
+
+
+PS-Plant Science
+
+
+
+
+
+
+
+
+
+HS-RC001
+Robotic Exploration: Discovering the Effects of Arduino Coding in Engineering Products
+Grade:HS
+
+
+
+RC-Robotics and Computer Science
+
+
+
+
+
+
+
+
+
+HS-RC002
+Paper Robots
+Grade:HS
+
+
+
+RC-Robotics and Computer Science
+
+
+
+
+
+
+
+
+
+HS-RC003
+Improving the Ease and Functionality of a Research Data Application Programming Interface
+Grade:HS
+
+
+
+RC-Robotics and Computer Science
+
+
+
+
+
+
+
+
+
+HS-RC004
+Wi-Fi Efficiency
+Grade:HS
+
+
+
+RC-Robotics and Computer Science
+
+
+
+
+
+
+
+
+
+HS-RC005
+Using Deep Learning to Identify Organisms in Water
+Grade:HS
+
+
+
+RC-Robotics and Computer Science
+
+
+
+
+
+
+
+
+
+HS-RC007
+A Cryptocraft: From Caesar to Now
+Grade:HS
+
+
+
+RC-Robotics and Computer Science
+
+
+
+Previous page
+
+1-48
+49-96
+97-144
+145-192
+193-240
+241-288
+289-336
+337-384
+385-432
+433-480
+481-528
+529-576
+577-624
+625-672
+673-720
+721-768
+769-816
+817-864
+865-912
+913-960
+961-1008
+1009-1056
+1057-1098
+
+
+
+
+SARSEF Science Store
+
+Grab some SARSEF swag to celebrate the Fair in style!
+
+Visit the SARSEF Science Store
+
+
+
+
+
+        Copyright © 2005 - 2021 by  SARSEF
+ • Site by Jenson Consulting

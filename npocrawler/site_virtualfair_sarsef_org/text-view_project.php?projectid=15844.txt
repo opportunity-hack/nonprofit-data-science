@@ -1,0 +1,71 @@
+SARSEF Virtual Fair: View Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit Hall
+Main Stage
+Sponsors
+Family Fun
+
+
+Volunteer
+Judge
+Donate
+
+
+
+powered by
+
+
+Back to Exhibit Hall
+1st Place Grand Award
+
+4-ER008
+Can a Robot Navigate a Maze?
+Engineering, Robotics and Computer Sciences
+
+Adam Keeme, Zachary Keeme
+Grade:
+4
+
+Teacher:
+Ellen Rieger
+
+We wanted to see if we could use block code to program a robot to navigate a maze by identifying color and symbols. We have always enjoyed building robots with our Dad and are starting to learn coding and wanted to combine the two. We found that the robot can be coded to navigate the maze, but the maze needs to fit within the robots limitations of its "sight" and turning radius. Being able to navigate a maze using color and symbols would mean the robot could be helpful for disabled people.
+View Project Video
+This project has been cleared by SRC.
+
+
+Comments
+
+WOW! so cool. I love robots. Great job programing and adapting! Well done!
+
+Leave a comment. Comments will not be viewable until Friday, March 5th.
+200 character limit
+
+Send
+
+
+
+
+        Copyright © 2005 - 2021 by  SARSEF
+ • Site by Jenson Consulting

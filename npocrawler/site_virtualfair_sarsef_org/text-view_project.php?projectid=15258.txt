@@ -1,0 +1,78 @@
+SARSEF Virtual Fair: View Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit Hall
+Main Stage
+Sponsors
+Family Fun
+
+
+Volunteer
+Judge
+Donate
+
+
+
+powered by
+
+
+Back to Exhibit Hall
+3rd Place Grand Award, SARSEF Board of Directors Award
+
+HS-EA002
+Structural Interpretation of Raplee Ridge Monocline Utilizing Remote Sensing Techniques and Point Cloud Data
+Earth and Environmental Science
+
+Esai N. Quintero
+Grade:
+HS
+
+Teacher:
+Jeremy Jonas
+
+Remote Sensing, Geology, Point clouds, stereonets 
+1. This project focuses on utilizing remote sensing technique to extract key structural information at Raplee Ridge monocline through millions of georeferenced points (point cloud).
+2. Though this is a mentored project, I found the beauty behind science I have never been exposed to. Though it is difficult to understand at times, I was able to succesfully complete research and find meaning behind what I did.
+3.Raplee ridge monocline  can be classified by its axial trace which this research has determined to have a westward trend of 201° and a southern plunge of 8°. 
+With this knowledge, we can conclude that this structure 50-80 million years ago, eastward horizontal paleostress formed what geologists refer to as Laramide Uplifts (deformation). 
+We characterize these uplifts by having a north-south trend which we can clearly see with a dip of 8°.  Raplee ridge is a clear product of laramide related paleostress. 
+4.lassifying a fold's geometry by its axial trace and axial plane orientations gives insight into the paleostress that caused the structure to evolve millions of years ago. 
+This analysis has considered the Laramide state of stress 50 - 80 million years ago by remotely analyzing one of the structures that formed during that tectonic event.
+Methods of extraction with this specific project pave a way to a more practical way of imaging and collecting data. This emergence of point clouds can also provide a basis of understanding and application for other science fields that require imaging at the 3D extraction level.
+This project has been cleared by SRC.
+
+
+Comments
+
+What a nice example of trying out a new area of interest and finding rewards in looking at the world differently!
+
+Leave a comment. Comments will not be viewable until Friday, March 5th.
+200 character limit
+
+Send
+
+
+
+
+        Copyright © 2005 - 2021 by  SARSEF
+ • Site by Jenson Consulting

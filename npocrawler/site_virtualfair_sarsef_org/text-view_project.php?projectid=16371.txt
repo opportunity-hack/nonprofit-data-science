@@ -1,0 +1,94 @@
+SARSEF Virtual Fair: View Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit Hall
+Main Stage
+Sponsors
+Family Fun
+
+
+Volunteer
+Judge
+Donate
+
+
+
+powered by
+
+
+Back to Exhibit Hall
+2nd Place Grand Award, Best of Engineering, Robotics and Computer Sciences Award, Food Safety Award - First Place(Sponsored by the Victor P. Smith Endowed Chair in Food Safety Education, Junior Water Prize Regional Award, Science Champion Award for Excellence in Using Science Innovatively, TEP Award of Excellence
+
+HS-RC005
+Using Deep Learning to Identify Organisms in Water
+Robotics and Computer Science
+
+Hendrick Read
+Grade:
+HS
+
+Teacher:
+Tara Archuleta
+
+1. In my project I hope to create a cost effective way for people without a proper lab to test their water for potentially lethal organisms.
+
+2. I chose this project because with further development it has the capacity to make a real difference and even possibly save lives.
+
+3. I was able to create a proof-of-concept in which the user can successfully identify if there is a Philodina Rotifer (test organism) in their water using deep learning, in real time.
+
+4. This project is important because it can allow those in rural or poor socioeconomic areas to assess biological hazards in their water to prevent any more unnecessary illnesses or deaths in those who consume it.
+
+Keywords:
+- Deep learning
+- Machine Learning
+- Artificial Intelligence (AI)
+- Philodina Rotifer
+- Waterborne parasites
+- Cost-effective
+- Microscope
+This project has been cleared by SRC.
+
+
+Comments
+
+Such an interesting research topic!
+Nice project! Incredibly thorough work.
+Hendrick this project looks so interesting and promising.  Good luck with the competition!!!  For sure I am very proud of you!!!  Love Oma OOXX
+Please consider entering your project into the Stockholm Junior Water prize competition https://www.wef.org/resources/for-the-public/SJWP/
+Hendrick, 
+
+Congrats and what a great concept and potentially life changing for people in developing countries. Bravo!  Ries (friend of your moms)
+Congratulations Hendrick!
+Hendrick,  This is phenomenal work. I am so inspired by your pursuit of solutions! Bravo.
+Hendrick, so inspired by your desire to use your gifts and talents to help others, finding accessible ways to  ensure that harmful water is not consumed. 1 idea can change a life, well done! Gabrielle
+
+Leave a comment. Comments will not be viewable until Friday, March 5th.
+200 character limit
+
+Send
+
+
+
+
+        Copyright © 2005 - 2021 by  SARSEF
+ • Site by Jenson Consulting

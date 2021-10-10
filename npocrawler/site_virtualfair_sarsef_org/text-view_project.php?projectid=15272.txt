@@ -1,0 +1,70 @@
+SARSEF Virtual Fair: View Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit Hall
+Main Stage
+Sponsors
+Family Fun
+
+
+Volunteer
+Judge
+Donate
+
+
+
+powered by
+
+
+Back to Exhibit Hall
+2nd Place Grand Award
+
+HS-PS002
+Comparative Analysis of Transcriptome Changes in Solanum pennellii Pistils Before and After Flowering Time
+Plant Science
+
+Samira Nassi Celaya
+Grade:
+HS
+
+Teacher:
+JEREMY JONAS
+
+Bioinformatics, Unilateral Incompatibility, Plant Genomics, Differential Analysis
+ My project tests a bioinformatic pipeline for differential analysis between Solanum pennellii pistils before and after flowering to determine genes related to unilateral incompatibility. I chose this project because I'm interested in genomics and plant sciences. The overall results have yet to be analyzed. This project is important because this bioinformatic pipeline will be applied to the tomato plant genome project studying heat tolerance and will further research on unilateral incompatibility.
+This project has been cleared by SRC.
+
+
+Comments
+
+
+Leave a comment. Comments will not be viewable until Friday, March 5th.
+200 character limit
+
+Send
+
+
+
+
+        Copyright © 2005 - 2021 by  SARSEF
+ • Site by Jenson Consulting

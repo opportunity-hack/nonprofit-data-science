@@ -1,0 +1,69 @@
+SARSEF Virtual Fair: View Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit Hall
+Main Stage
+Sponsors
+Family Fun
+
+
+Volunteer
+Judge
+Donate
+
+
+
+powered by
+
+
+Back to Exhibit Hall
+3rd Place Grand Award
+
+HS-BI006
+Human Stem-cell Derived Heart Tissue Monolayer Image-based Analysis: Manual vs. Automatic ROI Designation
+Biochemical Science and Bioengineering
+
+Trey Allen
+Grade:
+HS
+
+Teacher:
+John Rosinbum
+
+My project compares two methods of analysis of human stem-cell derived heart tissue monolayers; it compares manual selection and automatic designation of regions of interest (ROIs) in videos of in vitro contracting heart tissue monolayers. I chose this project because I found the topic very interesting, and it gave me an opportunity to utilize skills I had learned in school such as math and biology, while learning new skills such as coding in MATLAB, all in a project with real-world applications. My results show that manual ROI selection tends to give a more accurate and complete description of the monolayer, but has definite flaws such as being less reproducible and less consistent than automatic ROI detection. My project is important because it analyzes the benefits and drawbacks of different techniques of image-based contracting monolayer analysis on monolayers, a type of in vitro heart model, and improvements in techniques of image-based analysis of in vitro models can help improve the accuracy and speed of cardiovascular drug tests on similar in vitro models and help more accurately analyze functioning human heart tissue.
+This project has been cleared by SRC.
+
+
+Comments
+
+
+Leave a comment. Comments will not be viewable until Friday, March 5th.
+200 character limit
+
+Send
+
+
+
+
+        Copyright © 2005 - 2021 by  SARSEF
+ • Site by Jenson Consulting

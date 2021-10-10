@@ -1,0 +1,940 @@
+SARSEF Virtual Fair: Exhibit Hall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit Hall
+Main Stage
+Sponsors
+Family Fun
+
+
+Volunteer
+Judge
+Donate
+
+
+
+powered by
+
+
+
+
+Welcome to the virtual exhibit hall
+Welcome to the 2021 SARSEF Regional Science and Engineering Fair Exhibit Hall! Here you will find the top 15% of all student science and engineering projects in the Southern Arizona region. We are so proud of all the students who completed a project this year, especially in the midst of so many challenges. We are in awe of you and all that you accomplished.
+Look at all the critical thinking and problem solving that is happening in our community!
+Using the filters, you can browse by category or grade, or even use the keyword search to narrow down to a specific special project you are looking for! Keep noticing and wondering!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Filter projects
+
+Grade level
+
+All
+PK
+K
+1
+2
+3
+4
+5
+6
+7
+8
+HS
+
+
+
+Category
+
+All
+AP - Animal and Plant Science (PK - 8)
+AS - Animal Science (HS)
+BE - Behavioral and Social Science
+BI - Biochemical Science and Bioengineering (HS)
+CB - Cellular and Molecular Biology (HS)
+CH - Chemical Science (PK - 8)
+CM - Chemical and Material Science (HS)
+EA - Earth and Environmental Science
+EE - Energy and Environmental Engineering (PK - 8)
+EL - Electrical and Mechanical Engineering (HS)
+EN - Energy and Environmental Engineering (HS)
+ER - Engineering, Robotics and Computer Science (PK - 8)
+HB - Health and Biomedical Science (HS)
+HW - Health and Wellness (PK - 8)
+MI - Microbiology (HS)
+PM - Physics, Astronomy, and Mathematics
+PS - Plant Science (HS)
+RC - Robotics and Computer Science (HS)
+
+
+
+Keyword search
+
+
+
+
+
+
+
+
+Previous page
+
+1-48
+49-96
+97-144
+145-192
+193-240
+241-288
+289-336
+337-384
+385-432
+433-480
+481-528
+529-576
+577-624
+625-672
+673-720
+721-768
+769-816
+817-864
+865-912
+913-960
+961-1008
+1009-1056
+1057-1098
+
+Next page   
+
+
+
+
+
+
+
+
+
+HS-EL003
+The Smart Toilet - An Automated Urine Screening Device for Kidney Failure, Bladder Cancer, and Prostate Enlargement
+Grade:HS
+
+
+
+EL-Electrical and Mechanical Engineering
+
+
+
+
+
+
+
+
+
+HS-EL005
+Will Photovoltaic Power Cells Increase the Time an Electric Vehicle Can Drive??
+Grade:HS
+
+
+
+EL-Electrical and Mechanical Engineering
+
+
+
+
+
+
+
+
+
+HS-EL006
+Using an LDR to Detect the Ripeness of a Red Delicious Apple
+Grade:HS
+
+
+
+EL-Electrical and Mechanical Engineering
+
+
+
+
+
+
+
+
+HS-EL007
+How Triangle Shape Affects Bridge Performance
+Grade:HS
+
+
+
+EL-Electrical and Mechanical Engineering
+
+
+
+
+
+
+
+
+
+HS-EL008
+Measuring Distance with Arduino Uno and HC-SR04 Under Varying Air Pressure and Humidity
+Grade:HS
+
+
+
+EL-Electrical and Mechanical Engineering
+
+
+
+
+
+
+
+
+
+HS-EL009
+Mobile Vacuum COVID-19 Vaccine Freezer
+Grade:HS
+
+
+
+EL-Electrical and Mechanical Engineering
+
+
+
+
+
+
+
+
+
+HS-EN001
+The Impact of a Global Pandemic on Performing Arts: Building Shields to Stop the Spread of Aerosols
+Grade:HS
+
+
+
+EN-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+HS-EN002
+The Effect of Total Watt Withdrawal on the Efficiency of a Power Strip
+Grade:HS
+
+
+
+EN-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+HS-EN003
+Desalination and Purification of Tainted Salt Water
+Grade:HS
+
+
+
+EN-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+
+HS-EN004
+A Refreshing Breeze
+Grade:HS
+
+
+
+EN-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+HS-EN005
+Solar Powered Car vs. Environments
+Grade:HS
+
+
+
+EN-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+
+HS-EN006
+Construction of a Low-tech Hydroponic System & Its Effect on the Growth of Arugula (Eruca vesicaria sativa)
+Grade:HS
+
+
+
+EN-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+
+HS-EN007
+Does Sunlight Time Affect the Electrical Conductivity in Persian Limes?
+Grade:HS
+
+
+
+EN-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+
+HS-EN008
+Can a Small Levee Decrease the Height of Water in a Dip During a Flash Flood?
+Grade:HS
+
+
+
+EN-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+
+HS-EN009
+Making a Saguaro H.A.W.T.
+Grade:HS
+
+
+
+EN-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+HS-EN010
+Optimizing the Chemical Production of Hydrogen Gas
+Grade:HS
+
+
+
+EN-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+
+HS-HB001
+Let's Fight Bac(teria)! Effects of Prosopis glandulosa (Mesquite) leaves Extract on Lowering the Antibiotic Resistance of Escherichia coli, Sarcina lutea,  and Staphylococcus Epidermidis
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+
+HS-HB002
+Neurological Disease protein TDP-43 in a Larvae drosophila model relating to Frontotemporal dementia
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+HS-HB003
+Comparison of SARS-CoV-1 and SARS-CoV-2 Antibody Protein Sequences
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+
+HS-HB004
+Trends and Prevalence of Antibiotic Resistance Genes in the Human Oral Microbiome
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+
+HS-HB005
+Qualitative Analysis of Gene Expression Profiles of IFN-B treated and Treatment-Naive MS Patients
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+
+HS-HB006
+KRAS Mutational Status and Its Relationship to Gender, Stage and Other RAS Expressions in Non-Small Cell Lung Cancer
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+HS-HB007
+Effects of Birth Method, Age, Ethnic Origin, Activity Level, and Other Factors on a Child’s Development of Asthma and Respiratory Allergies
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+
+HS-HB008
+Prostacyclin Therapy Effects on CMR Image- derived Pericardial Effusion Size in Patients With Pulmonary Arterial Hypertension (PAH)
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+
+HS-HB009
+Global and National Covid-19 Correlations
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+
+HS-HB011
+The Effectiveness of Copaiba (The Effects of Copaifera reticulata on Gram-positive and Gram-negative Bacteria)
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+
+HS-HB012
+Preliminary Study to Identify Changes in Inhibitory Neurotransmitter Receptor Expression Level and Distribution in Retinas From Diabetic Mice
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+HS-HB013
+Effect of Different Drinks on the pH of Saliva
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+HS-HB014
+Electrophysiology Evaluation in Swine of Persistent Atrial Fibrillation
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+
+HS-HB015
+The Effects of a Sedentary Lifestyle on Frontotemporal Dementia Disease Severity: Lessons from a Drosophila melanogaster Model
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+HS-HB016
+Antibiotic Effects of Flavonoids from the Anthoxanthin Subgroup on Gram pos/neg Bacteria Strains
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+HS-HB017
+Oxygen Levels vs. Coronavirus
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+HS-HB018
+Not My Type
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+HS-HB019
+Wash Your Mouth!
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+HS-HB020
+The Effects of Online School on the Hours of Sleep and Level of Stress in Students
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+HS-HB021
+TRPM7 vs. Cancer
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+HS-HB022
+Covid-19 and the Common Cold
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+HS-HB023
+Effects of Depression on GPA
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+
+HS-HB024
+You Are What You Eat! Prediction of Food Allergy Development
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+HS-HB025
+The Effect of an HVAC System on Airborne Particle Dispersion
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+
+HS-HB026
+Needle Technology
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+
+HS-HB027
+Changes in Bile Acid During Obesity and Prebiotic Treatment
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+
+HS-HB028
+Cabozantinib Interactions with Pancreatic Cancer Myeloid-Derived Suppressor Cells
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+HS-HB029
+The Bacteria Between Us: The Relationship Between Classrooms, Ventilation, and Airborne Bacteria
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+HS-HB030
+Spread Facts, Not Germs
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+
+HS-HB031
+Basic Fibroblast Growth Factor's Ability to Maintain Pluripotency in Human Induced Pluripotent Stem Cells Compared to That of Nine Similar-structured Small Molecules
+Grade:HS
+
+
+
+HB-Health and Biomedical Science
+
+
+
+
+
+
+
+
+
+HS-MI001
+Brie-ding Experimental Cultures: What Effects Will It Havarti, and Will It Be Any Gouda?
+Grade:HS
+
+
+
+MI-Microbiology
+
+
+
+
+
+
+
+
+
+HS-MI002
+The Effect of Sunlight Cycles on the Bioluminescence of Marine Dinoflagellates
+Grade:HS
+
+
+
+MI-Microbiology
+
+
+
+Previous page
+
+1-48
+49-96
+97-144
+145-192
+193-240
+241-288
+289-336
+337-384
+385-432
+433-480
+481-528
+529-576
+577-624
+625-672
+673-720
+721-768
+769-816
+817-864
+865-912
+913-960
+961-1008
+1009-1056
+1057-1098
+
+Next page   
+
+
+
+SARSEF Science Store
+
+Grab some SARSEF swag to celebrate the Fair in style!
+
+Visit the SARSEF Science Store
+
+
+
+
+
+        Copyright © 2005 - 2021 by  SARSEF
+ • Site by Jenson Consulting

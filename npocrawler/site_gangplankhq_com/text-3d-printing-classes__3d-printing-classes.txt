@@ -1,0 +1,152 @@
+3D Printing Classes - Gangplank HQ | Learn about 3D Printing
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+Gangplank HQ
+
+
+
+
+Menu					 
+Close					 
+
+
+Home
+FAQs
+About Gangplank
+3D Printing Classes
+Contact
+Classroom
+ 
+
+
+
+
+
+
+3D Printing Classes 
+
+Gangplank Queen Creek offers affordable 3D printing classes that teach both the fundamentals of 3D printing, slicers and their settings, basic 3D modeling (using programs that are free or paid), troubleshooting and advanced modeling techniques.
+If you’re interested in signing up yourself, your teen, or your group, please contact us below for information on our next class.
+
+Already signed up?
+Let’s get you set up for your 3D printing classes!
+For all classes, you’ll need to bring a laptop with one of each of the following categories of software already installed. You can also use others, so find what’s best for you.
+All students should also know how –and have system/user permission to– download files, locate saved files, and save to a USB drive independently.
+Slicers we recommend:
+UltimakerCura Download
+
+or
+PrusaSlicer Download
+
+
+Modeling programs we recommend:
+TinkerCAD account (beginner)
+
+or
+Fusion360 Download (medium-advanced skillset, parametric)
+
+or
+Blender Download (medium-advanced skillset, organic shapes)
+
+or
+SketchUp Download (medium-advanced skillset)
+
+
+Choose a model to work with (fundamentals class)
+you’ll use this to practice slicing and printing during our class. 
+Other models may be printed with the instructor’s permission if reviewed prior to class –we have a limited amount of print time during our class sessions. 
+
+
+Articulated slug
+
+This print will teach you how to scale a model, the importance of a good first layer, and how joints can be printed in place.
+Credit: 8ran on Thingiverse
+Download articulated slug files
+
+
+Animal crossing fossil
+
+This print will teach you how to orient a model on the bed, the importance of top layers, and how layer heights affect top surface details.
+Credit:brunothebruno on Thingiverse.
+Download fossil token files
+
+
+emergency whistle
+
+This print will teach you about functional prints, the importance of hearty walls, and how strong your eardrums are. THESE WHISTLES ARE LOUD. Ages12+
+Credit: Mechlimere on Thingiverse
+Download whistle files
+
+
+
+
+
+
+
+
+Community Hours Monday-Thursday:  9 a.m. – 5 p.m. Fridays: 8:30 a.m. – 3 p.m.
+
+Address 22240 S. Ellsworth Rd.
+Queen Creek, AZ 85142
+
+ 
+
+
+
+Gangplank QC on Facebook
+Email Us
+
+
+
+
+
+
+
+				Proudly powered by WordPress.

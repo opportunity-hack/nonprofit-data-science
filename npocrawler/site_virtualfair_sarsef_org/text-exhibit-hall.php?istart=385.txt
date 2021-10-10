@@ -1,0 +1,934 @@
+SARSEF Virtual Fair: Exhibit Hall
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit Hall
+Main Stage
+Sponsors
+Family Fun
+
+
+Volunteer
+Judge
+Donate
+
+
+
+powered by
+
+
+
+
+Welcome to the virtual exhibit hall
+Welcome to the 2021 SARSEF Regional Science and Engineering Fair Exhibit Hall! Here you will find the top 15% of all student science and engineering projects in the Southern Arizona region. We are so proud of all the students who completed a project this year, especially in the midst of so many challenges. We are in awe of you and all that you accomplished.
+Look at all the critical thinking and problem solving that is happening in our community!
+Using the filters, you can browse by category or grade, or even use the keyword search to narrow down to a specific special project you are looking for! Keep noticing and wondering!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Filter projects
+
+Grade level
+
+All
+PK
+K
+1
+2
+3
+4
+5
+6
+7
+8
+HS
+
+
+
+Category
+
+All
+AP - Animal and Plant Science (PK - 8)
+AS - Animal Science (HS)
+BE - Behavioral and Social Science
+BI - Biochemical Science and Bioengineering (HS)
+CB - Cellular and Molecular Biology (HS)
+CH - Chemical Science (PK - 8)
+CM - Chemical and Material Science (HS)
+EA - Earth and Environmental Science
+EE - Energy and Environmental Engineering (PK - 8)
+EL - Electrical and Mechanical Engineering (HS)
+EN - Energy and Environmental Engineering (HS)
+ER - Engineering, Robotics and Computer Science (PK - 8)
+HB - Health and Biomedical Science (HS)
+HW - Health and Wellness (PK - 8)
+MI - Microbiology (HS)
+PM - Physics, Astronomy, and Mathematics
+PS - Plant Science (HS)
+RC - Robotics and Computer Science (HS)
+
+
+
+Keyword search
+
+
+
+
+
+
+
+
+Previous page
+
+1-48
+49-96
+97-144
+145-192
+193-240
+241-288
+289-336
+337-384
+385-432
+433-480
+481-528
+529-576
+577-624
+625-672
+673-720
+721-768
+769-816
+817-864
+865-912
+913-960
+961-1008
+1009-1056
+1057-1098
+
+Next page   
+
+
+
+
+
+
+
+
+5-EE004
+Solar Desalination Using an Evacuated Tube Solar Collector
+Grade:5
+
+
+
+EE-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+5-EE005
+Cardboard VR Headset
+Grade:5
+
+
+
+EE-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+5-EE006
+Push Pile Broom
+Grade:5
+
+
+
+EE-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+
+5-EE007
+How Much Water Passes Through Different Cement Mixes?
+Grade:5
+
+
+
+EE-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+5-EE008
+Solar Panel Air Conditioning
+Grade:5
+
+
+
+EE-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+5-EE009
+Which Battery Brand Lasts Longer?
+Grade:5
+
+
+
+EE-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+
+5-EE010
+Feral Feeder
+Grade:5
+
+
+
+EE-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+
+5-EE101-C
+Plant Power
+Grade:5
+
+
+
+EE-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+
+5-EE102-C
+Ramp It Up!
+Grade:5
+
+
+
+EE-Energy and Environmental Engineering
+
+
+
+
+
+
+
+
+
+5-ER001
+Recycled Racer Project
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+
+5-ER002
+Snowball Scooper
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+5-ER003
+Flag Hat
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+5-ER004
+Elbow Comfort Pillow
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+
+5-ER005
+Environmentally Friendly Straw-Bioplastic
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+5-ER006
+Nerf Dart Accuracy & Precision
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+
+5-ER007
+Block the Bucks!
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+
+5-ER008
+Electric Back Massager
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+5-ER009
+Robotic Hand
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+5-ER010
+Cotton Ball Cannon
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+5-ER011
+Rocket Ball Launcher
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+
+5-ER012
+Lego Stomper
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+5-ER013
+Power of Air
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+
+5-ER014
+Wheelchair Locking Bracket
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+
+5-ER015
+Elevapter- High Altitude Hexadeca-copter-Based Rocket Elevator And Launch / Land System
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+
+5-ER016
+The Automatic Rebounder
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+5-ER017
+Mask
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+
+5-ER018
+Stars
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+5-ER019
+Mini Car Powered by a Balloon
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+
+5-ER101-C
+Echolocation and Thwartation
+Grade:5
+
+
+
+ER-Engineering, Robotics and Computer Sciences
+
+
+
+
+
+
+
+
+5-HW001
+Breathe Better in Your Mask
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+
+
+
+
+
+5-HW002
+Exercise:  Are You In or Out?
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+
+
+
+
+
+
+5-HW003
+So Long, Coronavirus! You Won’t Be ‘Mist’! - Designing and Building an Economical Ventilation System to Reduce the Transmission of Airborne Pathogens Like COVID Aerosols in Indoor Classrooms
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+
+
+
+
+
+5-HW004
+What Kind of Mask Holds in the Most Germs?
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+
+
+
+
+
+
+5-HW005
+A Masked Problem
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+
+
+
+
+
+5-HW006
+Which SPF Is the Best?
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+
+
+
+
+
+5-HW007
+Bacteria Lurking in Your Food
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+
+
+
+
+
+5-HW008
+Wipes for the World
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+
+
+
+
+
+
+5-HW009
+The 5-Second Rule -- Is it Legit?
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+
+
+
+
+
+5-HW010
+Germs vs. Cleaners
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+
+
+
+
+
+5-HW011
+I Can See Clearly Now
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+
+
+
+
+
+5-HW012
+Wipeout!
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+
+
+
+
+
+
+5-HW013
+Mask Up, Arizona!
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+
+
+
+
+
+
+5-HW014
+The Calmer
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+
+
+
+
+
+
+5-HW015
+The Cost of Blue Light Reduction
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+
+
+
+
+
+5-HW016
+Battle of Bacteria
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+
+
+
+
+
+5-HW017
+What Increases Heart Rate More: Jogging on an Elliptical or Jogging on a Road for Half a Mile?
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+
+
+
+
+
+
+5-HW018
+Stretching Improvement With Sit and Reach
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+
+
+
+
+
+5-HW019
+How Well Sanitized Are Our Public Places During a Pandemic?
+Grade:5
+
+
+
+HW-Health and Wellness
+
+
+
+Previous page
+
+1-48
+49-96
+97-144
+145-192
+193-240
+241-288
+289-336
+337-384
+385-432
+433-480
+481-528
+529-576
+577-624
+625-672
+673-720
+721-768
+769-816
+817-864
+865-912
+913-960
+961-1008
+1009-1056
+1057-1098
+
+Next page   
+
+
+
+SARSEF Science Store
+
+Grab some SARSEF swag to celebrate the Fair in style!
+
+Visit the SARSEF Science Store
+
+
+
+
+
+        Copyright © 2005 - 2021 by  SARSEF
+ • Site by Jenson Consulting

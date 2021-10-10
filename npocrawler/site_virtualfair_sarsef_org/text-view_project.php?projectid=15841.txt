@@ -1,0 +1,72 @@
+SARSEF Virtual Fair: View Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit Hall
+Main Stage
+Sponsors
+Family Fun
+
+
+Volunteer
+Judge
+Donate
+
+
+
+powered by
+
+
+Back to Exhibit Hall
+Junior League of Tucson Future Technology Leader Award
+
+HS-RC003
+Improving the Ease and Functionality of a Research Data Application Programming Interface
+Robotics and Computer Science
+
+Prasiddhi Gyawali
+Grade:
+HS
+
+Teacher:
+Esra Sen
+
+1) This project is about solving problems found within an API through computer programming.
+2) I chose this project because I have a strong interest in computer science and programming and I wanted to be able to work on a research project that would advance my career interests.
+3) I was able to provide more security and ease when it came to the API I was working with.
+4) This project is important because it makes the API more secure, which is important because the API I was dealing with dealt with information that requires protection. My work also makes it such that people are able to access the most recent version of the API and that they have ease in doing so, meaning that it takes less time to access the API than it did before.
+This project has been cleared by SRC.
+
+
+Comments
+
+
+Leave a comment. Comments will not be viewable until Friday, March 5th.
+200 character limit
+
+Send
+
+
+
+
+        Copyright © 2005 - 2021 by  SARSEF
+ • Site by Jenson Consulting

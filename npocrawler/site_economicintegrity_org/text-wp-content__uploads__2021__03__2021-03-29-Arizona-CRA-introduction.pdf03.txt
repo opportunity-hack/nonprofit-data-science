@@ -1,0 +1,142 @@
+%PDF-1.5
+%ÓôÌá
+1 0 obj
+<<
+/Type/Page
+/Resources
+<<
+/Font
+<<
+/F1 2 0 R
+/F2 3 0 R
+/F3 4 0 R
+/F4 5 0 R
+/F5 6 0 R
+/F6 7 0 R
+>>
+/ExtGState
+<<
+/GS7 8 0 R
+/GS8 9 0 R
+>>
+/XObject
+<<
+/Image9 10 0 R
+/Image10 11 0 R
+>>
+/ProcSet[/PDF/Text/ImageB/ImageC/ImageI]
+>>
+/MediaBox[0 0 612 792]
+/Contents 12 0 R
+/Group
+<<
+/Type/Group
+/S/Transparency
+/CS/DeviceRGB
+>>
+/Tabs/S
+/Annots 13 0 R
+/Parent 62 0 R
+>>
+endobj
+2 0 obj
+<<
+/Type/Font
+/Subtype/TrueType
+/Name/F1
+/BaseFont/ArialMT
+/Encoding/WinAnsiEncoding
+/FontDescriptor 36 0 R
+/FirstChar 32
+/LastChar 237
+/Widths 37 0 R
+>>
+endobj
+3 0 obj
+<<
+/Type/Font
+/Subtype/TrueType
+/Name/F2
+/BaseFont/Arial-BoldMT
+/Encoding/WinAnsiEncoding
+/FontDescriptor 34 0 R
+/FirstChar 32
+/LastChar 121
+/Widths 35 0 R
+>>
+endobj
+4 0 obj
+<<
+/Type/Font
+/Subtype/Type0
+/BaseFont/Arial-BoldMT
+/Encoding/Identity-H
+/DescendantFonts 27 0 R
+/ToUnicode 28 0 R
+>>
+endobj
+5 0 obj
+<<
+/Type/Font
+/Subtype/TrueType
+/Name/F4
+/BaseFont/Arial-ItalicMT
+/Encoding/WinAnsiEncoding
+/FontDescriptor 25 0 R
+/FirstChar 32
+/LastChar 121
+/Widths 26 0 R
+>>
+endobj
+6 0 obj
+<<
+/Type/Font
+/Subtype/Type0
+/BaseFont/ArialMT
+/Encoding/Identity-H
+/DescendantFonts 18 0 R
+/ToUnicode 19 0 R
+>>
+endobj
+7 0 obj
+<<
+/Type/Font
+/Subtype/TrueType
+/Name/F6
+/BaseFont/ABCDEE+Times
+/Encoding/WinAnsiEncoding
+/FontDescriptor 15 0 R
+/FirstChar 32
+/LastChar 32
+/Widths 16 0 R
+>>
+endobj
+8 0 obj
+<<
+/Type/ExtGState
+/BM/Normal
+/ca 1
+>>
+endobj
+9 0 obj
+<<
+/Type/ExtGState
+/BM/Normal
+/CA 1
+>>
+endobj
+10 0 obj
+<<
+/Type/XObject
+/Subtype/Image
+/Width 542
+/Height 216
+/ColorSpace/DeviceRGB
+/BitsPerComponent 8
+/Filter/DCTDecode
+/Interpolate true
+/Length 11107
+>>
+stream
+ÿØÿà JFIF  ` `  ÿÛ C 		
+ $.' ",#(7),01444'9=82

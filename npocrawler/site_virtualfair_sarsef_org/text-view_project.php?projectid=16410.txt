@@ -1,0 +1,72 @@
+SARSEF Virtual Fair: View Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit Hall
+Main Stage
+Sponsors
+Family Fun
+
+
+Volunteer
+Judge
+Donate
+
+
+
+powered by
+
+
+Back to Exhibit Hall
+SARSEF Board of Directors Award
+
+HS-EL008
+Measuring Distance with Arduino Uno and HC-SR04 Under Varying Air Pressure and Humidity
+Electrical and Mechanical Engineering
+
+Karissa Riggs
+Grade:
+HS
+
+Teacher:
+Ty White
+
+My project is abut developing, and designing an Arduino sensor and ultrasonic device and tested it in lower air pressure and higher humidity. I choose to do this because last year I did one on temperature and this year I wanted to see if different variables would affect this as well. After looking at a t test chart I learned that there wasn't enough of a significance to say if it was actually humidity or air pressure that affected it. My project is important because in the near future people may need to use ultrasonic sensors to get around in  self driving cars and other automotive. So people need to know if they need to account for variables such as humidity and air pressure in their coding.
+View Project Video
+This project has been cleared by SRC.
+
+
+Comments
+
+Great use of statistical analysis to analyze your results.
+It looks like the data showed different reaults from what you anticipated.  That leave more room for further investigation.  Great work!
+
+Leave a comment. Comments will not be viewable until Friday, March 5th.
+200 character limit
+
+Send
+
+
+
+
+        Copyright © 2005 - 2021 by  SARSEF
+ • Site by Jenson Consulting

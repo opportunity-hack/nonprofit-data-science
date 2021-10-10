@@ -1,0 +1,40 @@
+%PDF-1.4
+%âãÏÓ
+1 0 obj
+<<
+/Type /Page
+/CropBox [ 0 0 612 792 ]
+/MediaBox [ 0 0 612 792 ]
+/Rotate 360
+/Resources << /ColorSpace << /CS0 3 0 R >> /ExtGState << /GS0 4 0 R /GS1
+5 0 R /GS2 6 0 R /GS3 7 0 R >> /Font << /TT0 8 0 R /TT1 9 0 R >> /XObject <<
+/Fm0 10 0 R /Im0 11 0 R /Im1 12 0 R /Im2 13 0 R /Im3 14 0 R /Im4 15 0 R /Fm1
+16 0 R >> >>
+/Contents 17 0 R
+/ArtBox [ 0 0 612 792 ]
+/BleedBox [ 0 0 612 792 ]
+/Group 18 0 R
+/PieceInfo << /InDesign << /DocumentID
+
+/LastModified
+
+/NumberofPages 1 /OriginalDocumentID
+
+/PageUIDList << /0 205 >> /PageWidthList << /0 612 >> >> >>
+/Tabs /W
+/Thumb 19 0 R
+/TrimBox [ 0 0 612 792 ]
+/Parent 2 0 R
+>>
+endobj
+3 0 obj
+[ /ICCBased 20 0 R ]
+endobj
+20 0 obj
+<<
+/Filter /FlateDecode
+/Length 2574
+/N 3
+>>
+stream
+H‰œ–yTSwÇoÉž

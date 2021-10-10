@@ -1,0 +1,71 @@
+SARSEF Virtual Fair: View Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit Hall
+Main Stage
+Sponsors
+Family Fun
+
+
+Volunteer
+Judge
+Donate
+
+
+
+powered by
+
+
+Back to Exhibit Hall
+2nd Place Grand Award
+
+HS-HB008
+Prostacyclin Therapy Effects on CMR Image- derived Pericardial Effusion Size in Patients With Pulmonary Arterial Hypertension (PAH)
+Health and Biomedical Science
+
+Sonia Mathur
+Grade:
+HS
+
+Teacher:
+Elyse Welxer
+
+The purpose of this project is to quantify the area of pericardial effusion around the heart derived from CMR images in patients with pulmonary arterial hypertension (PAH) and investigate how the area of effusion changes after patients undergo three months of prostacyclin therapy. The importance of the project is to learn about the vastly understudied functions and dysfunctions of the right ventricle. Furthermore, studying effusion is important because the detection and diagnosis of pulmonary hypertension are slow with little improvement. Without earlier detection, PAH can worsen and lead to right heart failure and even death, so quantifying effusion can be used as a new biomarker for new treatments and advanced diagnosis of PAH. The results indicated that there was an overall decrease in the amount of effusion in patients after treatment, however, statistical tests indicate that the data is not significant. Based on power analysis, a larger sampling size is needed to have the power to observe a difference after three months.
+This project has been cleared by SRC.
+
+
+Comments
+
+Wow incredible project! What a challenge learning both R code and MAtLab. Great job!
+This is a very good study! Your variable is clear and concise and the descriptions of your methods were easy to understand. I would love to have seen what you could do with more data.
+
+Leave a comment. Comments will not be viewable until Friday, March 5th.
+200 character limit
+
+Send
+
+
+
+
+        Copyright © 2005 - 2021 by  SARSEF
+ • Site by Jenson Consulting

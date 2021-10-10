@@ -1,0 +1,70 @@
+SARSEF Virtual Fair: View Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit Hall
+Main Stage
+Sponsors
+Family Fun
+
+
+Volunteer
+Judge
+Donate
+
+
+
+powered by
+
+
+Back to Exhibit Hall
+2nd Place Grand Award
+
+7-ER003
+A Virtual Environment for Socializing During the Pandemic
+Engineering, Robotics, and Computer Science
+
+Sabine Meredith
+Grade:
+7
+
+Teacher:
+Mr. Greg Gaines
+
+I am creating a multiplayer game in which each player has an avatar that they can control, allowing them to interact with friends. Because of the pandemic, I wanted to create an environment where friends could play safely. I created a prototype which allowed two or more people to connect through the internet. This game allows socially distanced friends to safely interact. Beyond the pandemic, this game has applications for hospital patients, individuals with mobility issues or any other situation requiring distancing.
+View Project Video
+This project has been cleared by SRC.
+
+
+Comments
+
+
+Leave a comment. Comments will not be viewable until Friday, March 5th.
+200 character limit
+
+Send
+
+
+
+
+        Copyright © 2005 - 2021 by  SARSEF
+ • Site by Jenson Consulting

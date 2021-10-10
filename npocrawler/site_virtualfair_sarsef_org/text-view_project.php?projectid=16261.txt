@@ -1,0 +1,72 @@
+SARSEF Virtual Fair: View Project
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Exhibit Hall
+Main Stage
+Sponsors
+Family Fun
+
+
+Volunteer
+Judge
+Donate
+
+
+
+powered by
+
+
+Back to Exhibit Hall
+Principles of Electromagnetics - Silver
+
+7-ER018
+Poor Wifi Signal? Explore the Cause of It
+Engineering, Robotics, and Computer Science
+
+Ngoc Bui
+Grade:
+7
+
+Teacher:
+José Robles
+
+What Materials Can Block a Wifi Signal? Will some materials weaken or totally block radio waves, while other materials let them pass through? It can block the Wifi signal if the steel baking pan is used as a block material. Since materials like wood or metal can block visible light entirely. Through the experiment, on the wifi-signal, I learned about how it responds to blocking material
+differently. The wifi-signal attenuation that weakened the most was 9 dBm from the aluminum foil. Plastic and cardboard with 3 dBm is the least blocking content that weakens the wifi-signal. I was
+surprised that the wifi-signal was most compromised by aluminum foil, whereas my hypothesis was that the steel baking pan would be the most weakened wifi signal. Despite my hypothesis that it was incorrect, it came second to weakened the wifi signal to the most blocking material. I found during the experiment that set the experiment up for testing was challenging. I had to adjust how I would hold the blocking materials to the wifi-router, for instance. I am asking others for assistance to help me retain the blocking material when taking the readings.
+This project has been cleared by SRC.
+
+
+Comments
+
+Congratulations. Awarded for your interest in Electromagnetics.
+
+Leave a comment. Comments will not be viewable until Friday, March 5th.
+200 character limit
+
+Send
+
+
+
+
+        Copyright © 2005 - 2021 by  SARSEF
+ • Site by Jenson Consulting
